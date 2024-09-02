@@ -1,5 +1,5 @@
 {
-    "name": "ecphp/cas-lib",
+    "name": "dtisch/cas-lib",
     "description": "CAS Lib, a standard library for CAS authentication.",
     "license": "BSD-3-Clause",
     "type": "library",
